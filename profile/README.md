@@ -9,9 +9,9 @@
 | NuGet Package | Link |
 |--------------|------|
 | `FmgLib.MauiMarkup` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.MauiMarkup?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.MauiMarkup.svg) |
+| `FmgLib.MauiMarkup.Template` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.MauiMarkup.Template?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Template/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.MauiMarkup.Template.svg) |
 | `FmgLib.Orm.DbHelper` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.svg) |
 | `FmgLib.Orm.Common` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.Common?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.Common/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.Common.svg) |
-| `FmgLib.MauiMarkup.Template` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.MauiMarkup.Template?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.MauiMarkup.Template/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.MauiMarkup.Template.svg) |
 | `FmgLib.Cryption` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Cryption?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Cryption/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Cryption.svg) |
 | `FmgLib.Orm.DbHelper.MySql` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.MySql?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.MySql/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.MySql.svg) |
 | `FmgLib.Orm.DbHelper.SQLite` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.SQLite?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.SQLite/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.SQLite.svg) |
