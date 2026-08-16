@@ -20,10 +20,3 @@
 | `FmgLib.Orm.DbHelper.Oracle` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Orm.DbHelper.Oracle?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.Orm.DbHelper.Oracle/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Orm.DbHelper.Oracle.svg) |
 | `FmgLib.HttpClientHelper` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.HttpClientHelper?includePreReleases=true)](https://www.nuget.org/packages/FmgLib.HttpClientHelper/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.HttpClientHelper.svg) |
 | `FmgLib.Localization` | [![NuGet](https://img.shields.io/nuget/v/FmgLib.Localization?includePreReleases=false)](https://www.nuget.org/packages/FmgLib.Localization/) ![NuGet Downloads](https://img.shields.io/nuget/dt/FmgLib.Localization.svg) |
-
-
-### Free .NET Project Templates by FmgLib
-
-| Template | Link |
-|--------------|------|
-| `FmgLib .NET MAUI App` | [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/r/FmgLib.FmgLibMauiMarkupTemplate)](https://marketplace.visualstudio.com/items?itemName=FmgLib.FmgLibMauiMarkupTemplate&ssr=false#overview) [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/i/FmgLib.FmgLibMauiMarkupTemplate)](https://marketplace.visualstudio.com/items?itemName=FmgLib.FmgLibMauiMarkupTemplate&ssr=false#overview)|
