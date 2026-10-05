@@ -22,9 +22,9 @@ Beyond client work, VodiSoft is also an active contributor to the open-source .N
 
 ---
 
-## 📱 VodiSoft Mobile Apps
+## 📱 VodiSoft Mobile & Desktop Apps
 
-FmgLib is proudly developed by **VodiSoft**. Check out our mobile applications, built using these very libraries, available now on Google Play and the App Store:
+FmgLib is proudly developed by **VodiSoft**. Check out our applications, built using these very libraries, available across **Google Play, the App Store, and Microsoft Store**:
 
 <table align="center">
   <tr>
@@ -38,14 +38,33 @@ FmgLib is proudly developed by **VodiSoft**. Check out our mobile applications, 
         <img alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="56"/>
       </a>
     </td>
+    <td align="center" style="padding:0 10px;">
+      <a href="https://apps.microsoft.com/search/publisher?name=VodiSoft">
+        <img alt="Get it from Microsoft" src="https://get.microsoft.com/images/en-us%20dark.svg" height="56"/>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://play.google.com/store/apps/developer?id=VodiSoft"><sub><b>Google Play'de Görüntüle</b></sub></a></td>
-    <td align="center"><a href="https://apps.apple.com/tr/developer/mustafa-gonultas/id1800284426"><sub><b>App Store'da Görüntüle</b></sub></a></td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/developer?id=VodiSoft">
+        <sub><b>Google Play'de Görüntüle</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/developer/mustafa-gonultas/id1800284426">
+        <sub><b>App Store'da Görüntüle</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.microsoft.com/search/publisher?name=VodiSoft">
+        <sub><b>Microsoft Store'da Görüntüle</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
+
 
 ### Free .NET Libraries by FmgLib
 
